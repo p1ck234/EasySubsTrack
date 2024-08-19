@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.0",
     "autoprefixer": "^10.4.20",
     "firebase": "^10.13.0",
     "postcss": "^8.4.41",
